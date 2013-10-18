@@ -1,0 +1,35 @@
+SPOJ:
+4 www.spoj.com/problems/POTHOLE
+
+(need diff maxflow algo)
+9 www.spoj.com/problems/FASTFLOW
+
+(likely can solve with Ford Fulkerson / Edmond Karp)
+UVA problems:
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=195
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=761
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1033
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1452
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1720
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1986
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2108
+4 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2413
+
+Trickier/Need a diff Maxflow algo:
+
+6 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=504
+6 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=694
+6 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1063
+6 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1271
+6 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1676
+
+
+
+somewhere in here:
+http://acm.timus.ru/problemset.aspx?space=1&tag=graphs&sort=id
+
+
+
+// HARD (also not even sure if maxflow)
+http://poj.org/problem?id=3469
+http://poj.org/problem?id=3680
